@@ -1,0 +1,6 @@
+{
+  "name": "PhonePe Pulse – Digital Payments & User Growth Analytics",
+  "description": "Interactive Business Intelligence dashboard tracking India's digital payment adoption, Total Payment Volume (TPV), and state and district user growth across 2020–2025.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
